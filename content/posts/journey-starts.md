@@ -4,6 +4,8 @@ description = 'The first step along the journey to improving my own skillset.'
 summary = 'I explain why I started this and where I am going from here.'
 tags = '["OOC", "NoMoreZeroDays"]'
 
+toc = true
+
 date = 2024-04-06T23:57:27-07:00
 draft = true
 showauthor = true

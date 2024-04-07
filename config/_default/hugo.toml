@@ -5,13 +5,18 @@ theme = 'risotto'
 DefaultContentLanguage = 'en-us'
 enableInlineShortcodes = true
 
+# This little bit adds content sections to the main menu.
+sectionPagesMenu = "main"
+
 [params.theme]
-palette = "tender"
+palette = "dracula"
 
 [params.about]
 title = "The Mindweb"
 description = "A collection of musings and scripts made by an old runedragon."
 logo = "🐉"
+
+[menu]
 
 [markup]
   [markup.tableOfContents]

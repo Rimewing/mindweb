@@ -32,7 +32,7 @@ work on this website.[^ooc-note]
 
 > "Mayhaps you've noticed... I have none!"
 
-One of the major things that I was to work on is my self-confidence. I don't know if this
+One of the major things that I want to work on is my self-confidence. I don't know if this
 site will help do that but I do know that the catharsis of watching text in an editor
 become something beautiful (well, functional at the very least :wink:) is something that I
 find to be very fulfilling. I'm hoping that, with something fun to actually show on my

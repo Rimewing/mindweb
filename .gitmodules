@@ -1,0 +1,3 @@
+[submodule "mindweb/themes/risotto"]
+	path = mindweb/themes/risotto
+	url = https://github.com/joeroe/risotto

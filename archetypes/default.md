@@ -1,5 +1,6 @@
 ---
 title: {{ replace .File.ContentBaseName "-" " " | title }}
+author: 
 description:
 summary:
 tags: ["", ""]

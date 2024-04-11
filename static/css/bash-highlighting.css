@@ -1,0 +1,20 @@
+.bash.command{
+	color: var(--base0A);
+}
+
+.bash.args{
+	color: var(--base08);
+}
+
+.bash.cmd-tail{
+	color: var(--base0B);
+}
+
+.bash.comment{
+	color: var(--base0C);
+}
+
+.bash.sudo{
+	color: var(--base01);
+	background-color: var(--base0D);
+}

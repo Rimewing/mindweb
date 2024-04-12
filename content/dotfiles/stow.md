@@ -126,8 +126,11 @@ pig.
 </pre>
 
 From here, you will want to simply use `~/dotfiles/nvim/` as your basis for editing these
-configurations. `stow` creates symlinks for each of the files stowed away. After you make
-changes, simply restow your program to propegate any changes. For instance, to restow neovim:
+configurations. `stow` creates symlinks for each of the files stowed away. Any changes
+made to individual files won't need to do this but if you delete a file or alter the
+structure of your directory tree, simply restow your program to propegate any changes. For
+instance, to restow neovim after you have added new `.lua` files to
+`~/dotfiles/nvim/.local/share/nvim/`:
 
 <pre>
 {{< bash-script command="stow" args="--restow" cmd-tail="nvim" >}}

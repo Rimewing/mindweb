@@ -7,7 +7,7 @@ enableInlineShortcodes = true
 sectionPagesMenu = "main"
 
 [params.theme]
-palette = "dracula"
+palette = "modus-tinted"
 
 [params.about]
 title = "The Mindweb"
